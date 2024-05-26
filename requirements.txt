@@ -1,0 +1,7 @@
+django==4.2.13
+djangorestframework==3.12
+gunicorn==22.0.0
+celery==5.4.0
+requests==2.26.0
+django_celery_beat==2.6.0
+python-dotenv==1.0.1
